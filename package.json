@@ -1,0 +1,27 @@
+{
+  "name": "printer_node_test",
+  "version": "0.1.0",
+  "description": "testing printing with node printer",
+  "main": "index.js",
+  "dependencies": {
+    "printer": "^0.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yahyaKacem/printer_node_test.git"
+  },
+  "keywords": [
+    "printer",
+    "node"
+  ],
+  "author": "Yahya Kacem",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/yahyaKacem/printer_node_test/issues"
+  },
+  "homepage": "https://github.com/yahyaKacem/printer_node_test#readme"
+}
